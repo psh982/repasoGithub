@@ -9,3 +9,7 @@ __hola__
 <html>
    <head>
    [link](url "texto alternativo")
+   | Encabezado1 | | Encabezado2 | | Encabezado3 |
+   | Item1 | Boligrafos | | 25€ |
+   
+   
